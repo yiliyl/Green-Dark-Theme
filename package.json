@@ -1,0 +1,24 @@
+{
+    "name": "green-dark-theme",
+    "displayName": "Green Dark Theme",
+    "description": "green dark vscode theme",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "repository": { "type": "git", "url": "https://github.com/yiliyl/Green-Dark-Theme.git" },
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "publisher": "yiliyl",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Real Green Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Real Green Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
