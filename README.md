@@ -1,6 +1,6 @@
 # README
-## vscode theme extension(Support Vscode Insiders)
-if you can't install this theme, please upgrade your vscode to latest version!
+## Vscode Theme Extension (Support Vscode Insiders)
+**if you can't install this theme, please upgrade your vscode to latest version!**
 ## Examples
 ### cpp
 ![cpp](examples/cpp.PNG)
