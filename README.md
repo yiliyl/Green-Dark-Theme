@@ -1,23 +1,23 @@
 # README
-## vscode theme extension(support Insiders)
+## vscode theme extension(Support Vscode Insiders)
 if you can't install this theme, please upgrade your vscode to latest version!
 ## Examples
 ### cpp
-![cpp](https://github.com/yiliyl/Green-Dark-Theme/tree/master/examples/cpp.PNG)
+![cpp](examples/cpp.PNG)
 ### css
-![css](https://github.com/yiliyl/Green-Dark-Theme/tree/master/examples/css.PNG)
+![css](examples/css.PNG)
 ### go
-![go](https://github.com/yiliyl/Green-Dark-Theme/tree/master/examples/go.PNG)
+![go](examples/go.PNG)
 ### html
-![html](https://github.com/yiliyl/Green-Dark-Theme/tree/master/examples/html.PNG)
+![html](examples/html.PNG)
 ### java
-![java](https://github.com/yiliyl/Green-Dark-Theme/tree/master/examples/java.PNG)
+![java](examples/java.PNG)
 ### javascript
-![javascript](https://github.com/yiliyl/Green-Dark-Theme/tree/master/examples/js.PNG)
+![javascript](/examples/js.PNG)
 ### python
-![python](https://github.com/yiliyl/Green-Dark-Theme/tree/master/examples/py.PNG)
+![python](/examples/py.PNG)
 ### typescript
-![typescript](https://github.com/yiliyl/Green-Dark-Theme/tree/master/examples/ts.PNG)
+![typescript](examples/ts.PNG)
 
 
 **Enjoy!**
